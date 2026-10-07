@@ -239,4 +239,4 @@ This repository serves as the official landing page for Crimson Editor. The soft
 **Get the most recent version of Crimson Editor today!**
 
 ---
-**Last updated:** 2026-10-06 22:06:36 UTC
+**Last updated:** 2026-10-07 01:56:26 UTC
